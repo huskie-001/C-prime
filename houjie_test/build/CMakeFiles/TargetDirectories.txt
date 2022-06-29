@@ -1,0 +1,3 @@
+/home/guo/gs/houjie_test/build/CMakeFiles/test.dir
+/home/guo/gs/houjie_test/build/CMakeFiles/edit_cache.dir
+/home/guo/gs/houjie_test/build/CMakeFiles/rebuild_cache.dir
