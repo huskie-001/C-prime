@@ -1,0 +1,3 @@
+/home/guo/gs/order_container/build/CMakeFiles/container.dir
+/home/guo/gs/order_container/build/CMakeFiles/edit_cache.dir
+/home/guo/gs/order_container/build/CMakeFiles/rebuild_cache.dir
