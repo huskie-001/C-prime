@@ -1,0 +1,3 @@
+/home/guo/gs/algorithm/build/CMakeFiles/algorithm.dir
+/home/guo/gs/algorithm/build/CMakeFiles/edit_cache.dir
+/home/guo/gs/algorithm/build/CMakeFiles/rebuild_cache.dir
