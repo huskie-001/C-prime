@@ -1,0 +1,3 @@
+build traget
+Welcome to fish, the friendly interactive shell
+Type help for instructions on how to use fish

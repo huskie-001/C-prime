@@ -1,0 +1,3 @@
+/home/guo/gs/asso_container/build/CMakeFiles/asso_container.dir
+/home/guo/gs/asso_container/build/CMakeFiles/edit_cache.dir
+/home/guo/gs/asso_container/build/CMakeFiles/rebuild_cache.dir
